@@ -1,8 +1,5 @@
 ## Html Project Structure (HPS)
 HPS is a simple CLI based. Create your web development project structure using this tiny application.
-
-----
-
 ## Web Development Project Structure:
     
     Project_name (folder)
@@ -28,8 +25,6 @@ with the initial of your project name.
 path.
 
 * Open CMD type HPS or hps press enter and put your project name.    
- 
-----
 
 **Example:**
 
