@@ -22,7 +22,7 @@ with the initial of your project name.
 
 ## How to use?
 
-* Download *HPS.exe*.Create a folder anywhere in your computer and paste the file. 
+* Download *HPS.exe*. Create a folder anywhere in your computer and paste the file. 
 
 * Now set this directory as the environment variable
 path.
