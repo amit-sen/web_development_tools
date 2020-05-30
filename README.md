@@ -17,6 +17,10 @@ HPS is a simple CLI based tool. Create your web development project structure us
 This tool also generates a *favicon.svg* file made 
 with the initial of your project name.
 
+*Project name is 'myWebsite' so initial is 'm'*
+
+![screensho](https://github.com/amit-sen/web_development_tools/blob/master/screenshot.PNG)
+
 ## How to use?
 
 * Download *HPS.exe*.Create a folder anywhere in your computer and paste the file in this folder. 
