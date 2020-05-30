@@ -1,5 +1,5 @@
 ## Html Project Structure (HPS)
-HPS is a simple CLI based tool for web development. Create your web development project structure using this tiny application.
+HPS is a simple CLI based. Create your web development project structure using this tiny application.
 
 ----
 
