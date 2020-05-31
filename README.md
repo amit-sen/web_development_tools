@@ -1,4 +1,4 @@
-## Html Project Structure (HPS)
+## HTML Project Structure (HPS)
 HPS is a simple CLI based tool. It's generate your web development project structure.
     
     Project_name (folder)
