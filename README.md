@@ -28,7 +28,7 @@ with the initial of your project name.
 
 * Now set this directory as the environment variable path.
 
-* Open CMD type HPS or hps and your project name then press enter. *(i.e. hps <project_name>)*   
+* Open CMD type HPS or hps and your project name, press enter. *(i.e. hps <project_name>)*   
 
 **Example:**
 
