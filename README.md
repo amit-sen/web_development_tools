@@ -22,17 +22,20 @@ with the initial of your project name.
 
 ## How to use?
 
-* Download *HPS.exe*. Create a folder anywhere in your PC and paste the file. 
+* Clone this repository. 
 
-* Now set this directory as the environment variable
-path.
+* Create a folder anywhere in your PC and paste the file *hps.exe (32 bit or 64 bit)*
 
-* Open CMD type HPS or hps press enter and put your project name.    
+* Now set this directory as the environment variable path.
+
+* Open CMD type HPS or hps and your project name then press enter. *(i.e. hps <project_name>)*   
 
 **Example:**
 
-	C:\Users\Amit\Desktop\website>hps
-	project name:myWebsite
+	C:\Users\Amit\Desktop\website>hps myWebsite
+
+	Your project name is myWebsite.
+
 	Folder PATH listing
 	Volume serial number is 000F-00AB
 	C:\USERS\AMIT\DESKTOP\WEBSITE\MYWEBSITE
@@ -47,7 +50,7 @@ path.
 	└───js
 	        index.js
           
-	HTML structure created successfully..
+	HTML Project Structure created successfully..
 	C:\Users\Amit\Desktop\website>
   
 *index.html*
@@ -58,12 +61,12 @@ path.
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="assets/favicon.svg"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hh</title>
+    <title>myWebsite</title>
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
     <h1>Hello World</h1>
-    <p><span class='project-name'>hh</span> is ready to build!</p>
+    <p>myWebsite is ready to build!</p>
 </body>
 <script src="js/index.js"></script>
 </html>
@@ -71,11 +74,8 @@ path.
 
 *index.css*
 ```css
-.project-name{
-    color:#2196f3;
-}
 h1{
-    color:#f44336;
+    color:#2196f3;
 }
 p{
     color:#4caf50;
@@ -85,5 +85,4 @@ p{
 *index.js*
 ```javascript
 console.log('index.js is ready..');
-
 ```    
