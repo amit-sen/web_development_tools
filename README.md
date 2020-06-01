@@ -18,7 +18,7 @@ with the initial of your project name.
 
 *For example my project name is 'myWebsite' so initial is 'm'*
 
-![screensho](https://github.com/amit-sen/web_development_tools/blob/master/screenshot.PNG)
+![screenshot](https://github.com/amit-sen/web_development_tools/blob/master/screenshot.PNG)
 
 ## How to use?
 
@@ -28,7 +28,7 @@ with the initial of your project name.
 
 * Now add this path to hps.exe to your PATH environment variable. Follow this QA : [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm#1)
 
-* Open CMD type HPS or hps and your project name, press enter. *(i.e. hps <project_name>)*   
+* Open CMD, type HPS or hps and your project name, press [↵] Enter.
 
 **Example:**
 
