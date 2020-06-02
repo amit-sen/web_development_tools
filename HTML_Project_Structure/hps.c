@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
     
     strcpy(cmd, "mkdir ");// set cmd = <mkdir>
     strcat(cmd, projName); //now cmd = mkdir <projaectName>
-    system(cmd); //exicute command
+    system(cmd); //execute command
 
     //create all require folders(assets, css, js)
     strcpy(cmd, "cd ");// set cmd = <cd>
@@ -103,7 +103,7 @@ int main(int argc, char *argv[]) {
     fclose(fpHtml);
     //
 
-    //final tree command exicute
+    //final tree command execute
     strcpy(cmd, "tree ");
     strcat(cmd, projName);
     strcat(cmd, " /F");
