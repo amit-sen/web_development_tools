@@ -26,7 +26,8 @@ with the initial of your project name.
 
 * Create a folder anywhere in your PC and paste the file *hps.exe (32 bit or 64 bit)*
 
-* Now add this path to hps.exe to your PATH environment variable. Follow this QA : [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm#1)
+* Now add this path to hps.exe to your PATH environment variable. Follow this QA : [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm#1) or
+use *set_this_path.bat* for set the current path as PATH environment variable.
 
 * Open CMD, type HPS or hps and your project name, press [↵] Enter.
 

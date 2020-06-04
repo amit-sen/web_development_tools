@@ -1,0 +1,1 @@
+setx Path "%CD%;%PATH%"
