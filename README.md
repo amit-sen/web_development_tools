@@ -29,11 +29,11 @@ with the initial of your project name.
 * Now add this path to hps.exe to your PATH environment variable. Follow this QA : [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm#1) or
 use *set_this_path.bat* for set the current path as PATH user environment variable .
 
-* Open CMD, type HPS or hps and your project name, press [↵] Enter.
+* Open CMD, type HPS or hps -p or --project and your project name, press [↵] Enter. You can also add another file (about.html, contact.html etc.) into your project folder with maintain script & style source path. just using "hps --add filename" (without file extension). Enter "hps --help" for any help.
 
 **Example:**
 
-	C:\Users\Amit\Desktop\website>hps myWebsite
+	C:\Users\Amit\Desktop\website>hps --project myWebsite
 
 	Your project name is myWebsite.
 
